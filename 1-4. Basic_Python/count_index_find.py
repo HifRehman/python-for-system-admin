@@ -1,4 +1,4 @@
-x = 'Python is an easy leanguage and it is easy'
+x = 'Python is an easy language and it is easy'
 print(x.count('is'))
 print(x.count('i'))
 
