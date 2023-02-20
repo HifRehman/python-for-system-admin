@@ -21,9 +21,6 @@ import re
 # x = txt.partition("bananas")
 # print(x)
 
-# host1 = "pv34p01if-ztds01163801.pv.if.apple.com"
-# host2 = "ms15q01if-quld09141301.ms.if1.apple.com"
-# host3 = "st52p01if-qujn03022301.st.if.apple.com"
 
 
 # host1_x = host1.partition("ztds")
